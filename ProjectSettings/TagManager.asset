@@ -4,15 +4,16 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - spawnpoint
   - Item
-  - plane
-  - mirror
-  - rightHand
-  - leftHand
-  - Forearm
+  - Plane
+  - Spawnpoint
   - DeathFloor
-  - Sp
+  - StartGame1
+  - BlueDoor
+  - redDoor
+  - slide
+  - item
+  - Skin
   layers:
   - Default
   - TransparentFX
@@ -20,11 +21,11 @@ TagManager:
   - 
   - Water
   - UI
-  - noselfcollision
-  - mirror
-  - testno
-  - 
-  - 
+  - Ragdoll
+  - Player
+  - Plane
+  - Hand
+  - Aim
   - 
   - 
   - 

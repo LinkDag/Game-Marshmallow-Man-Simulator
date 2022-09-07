@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Walking
+  m_Mask: 01000000000000000000000001000000010000000000000000000000000000000000000001000000010000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Cube
+    m_Weight: 1
+  - m_Path: Human
+    m_Weight: 1
+  - m_Path: Human/Hips
+    m_Weight: 1
+  - m_Path: Human/Hips/Spine
+    m_Weight: 1
+  - m_Path: Human/Hips/Spine/Arm.L
+    m_Weight: 1
+  - m_Path: Human/Hips/Spine/Arm.L/Forearm.L
+    m_Weight: 1
+  - m_Path: Human/Hips/Spine/Arm.L/Forearm.L/Hand.L
+    m_Weight: 1
+  - m_Path: Human/Hips/Spine/Arm.L/Forearm.L/Hand.L/Hand.L_end
+    m_Weight: 1
+  - m_Path: Human/Hips/Spine/Arm.R
+    m_Weight: 1
+  - m_Path: Human/Hips/Spine/Arm.R/Forearm.R
+    m_Weight: 1
+  - m_Path: Human/Hips/Spine/Arm.R/Forearm.R/Hand.R
+    m_Weight: 1
+  - m_Path: Human/Hips/Spine/Arm.R/Forearm.R/Hand.R/Hand.R_end
+    m_Weight: 1
+  - m_Path: Human/Hips/Spine/neck
+    m_Weight: 1
+  - m_Path: Human/Hips/Spine/neck/Head
+    m_Weight: 1
+  - m_Path: Human/Hips/Spine/neck/Head/Head_end
+    m_Weight: 1
+  - m_Path: Human/Hips/Thigh.L
+    m_Weight: 1
+  - m_Path: Human/Hips/Thigh.L/Calve.L
+    m_Weight: 1
+  - m_Path: Human/Hips/Thigh.L/Calve.L/Foot.L
+    m_Weight: 1
+  - m_Path: Human/Hips/Thigh.L/Calve.L/Foot.L/Foot.L_end
+    m_Weight: 1
+  - m_Path: Human/Hips/Thigh.R
+    m_Weight: 1
+  - m_Path: Human/Hips/Thigh.R/Calve.R
+    m_Weight: 1
+  - m_Path: Human/Hips/Thigh.R/Calve.R/Foot.R
+    m_Weight: 1
+  - m_Path: Human/Hips/Thigh.R/Calve.R/Foot.R/Foot.R_end
+    m_Weight: 1
+  - m_Path: Human/IK_HandController.L
+    m_Weight: 1
+  - m_Path: Human/IK_HandController.L/IKHand.L
+    m_Weight: 1
+  - m_Path: Human/IK_HandController.L/IKHand.L/IKHand.L_end
+    m_Weight: 1
+  - m_Path: Human/IK_HandController.R
+    m_Weight: 1
+  - m_Path: Human/IK_HandController.R/IKHand.R
+    m_Weight: 1
+  - m_Path: Human/IK_HandController.R/IKHand.R/IKHand.R_end
+    m_Weight: 1
+  - m_Path: Human/IKLegPole.L
+    m_Weight: 1
+  - m_Path: Human/IKLegPole.L/IKLegPole.L_end
+    m_Weight: 1
+  - m_Path: Human/IKLegPole.R
+    m_Weight: 1
+  - m_Path: Human/IKLegPole.R/IKLegPole.R_end
+    m_Weight: 1
+  - m_Path: Human/LegController.L
+    m_Weight: 1
+  - m_Path: Human/LegController.L/IKTarget.L
+    m_Weight: 1
+  - m_Path: Human/LegController.L/IKTarget.L/IKTarget.L_end
+    m_Weight: 1
+  - m_Path: Human/LegController.R
+    m_Weight: 1
+  - m_Path: Human/LegController.R/IKTarget.R
+    m_Weight: 1
+  - m_Path: Human/LegController.R/IKTarget.R/IKTarget.R_end
+    m_Weight: 1

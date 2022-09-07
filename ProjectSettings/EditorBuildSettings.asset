@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: da5dafc61b4d6344ba2f00559fa9700e
+  - enabled: 1
+    path: Assets/Scenes/MapSquidGame.unity
+    guid: f884684b1dda96e459235b5586f0c88c
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 019ca3e00866a9d41ba01eeb2869627b
   m_configObjects: {}
